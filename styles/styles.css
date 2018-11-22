@@ -1,0 +1,140 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 960px;
+    display: block;
+    margin: auto;
+}
+
+html {
+    background-color: #5b4a02;
+
+}
+
+.logo {
+
+    background-color: #7e6000;
+    width: 960px;
+    height: 100px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+ul.logo-text, ul.logo-text li {
+    display: inline-block;
+}
+
+ul.logo-text li {
+    font-family: Arial;
+    font-size: 24px;
+    color: white;
+    margin-top: 40px;
+    margin-left: 390px;
+
+}
+
+.menu-container {
+    background-color: #7e6000;
+    height: 90px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+ul.main-menu, ul.main-menu li {
+    display: inline-block;
+}
+
+ul.main-menu {
+    margin-left: 170px;
+}
+
+ul.main-menu li {
+    font-family: Impact;
+    font-size: 28px;
+    line-height: 90px;
+    color: white;
+    margin-right: 30px;
+
+}
+
+.content .container {
+    background-color: white;
+    margin-top: 32px;
+}
+
+.parastes {
+    padding: 0px 40px;
+}
+
+ul.title, ul.title li {
+    display: inline-block;
+}
+
+ul.title {
+    margin-left: 240px;
+}
+
+ul.title li {
+    font-family: Impact;
+    color: #594220;
+    margin-top: 48px;
+    margin-left: 8px;
+}
+
+.flex-container {
+
+
+    margin-bottom: 45px;
+    padding: 0px 20px;
+
+}
+
+.flex-container > div {
+    background-color: #7e6000;
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
+    text-align: center;
+    margin-right: 41px;
+    margin-top: 70px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.flex-container > div:last-child {
+    margin-right: 0px;
+}
+
+
+ul.title-h2, ul.title-h2 li {
+    display: inline-block;
+}
+
+ul.title-h2 {
+    margin: auto;
+}
+
+ul.title-h2 li {
+    font-family: Impact;
+    color: #594220;
+    margin-top: 48px;
+    margin-bottom: 40px;
+    margin-left: 4px;
+}
+p{
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
